@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic/lagou-parent/lagou-parent.iml" filepath="$PROJECT_DIR$/basic/lagou-parent/lagou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/lagou-parent/lagou-service-autodeliver/lagou-service-autodeliver.iml" filepath="$PROJECT_DIR$/basic/lagou-parent/lagou-service-autodeliver/lagou-service-autodeliver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/lagou-parent/lagou-service-common/lagou-service-common.iml" filepath="$PROJECT_DIR$/basic/lagou-parent/lagou-service-common/lagou-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/lagou-parent/lagou-service-resume/lagou-service-resume.iml" filepath="$PROJECT_DIR$/basic/lagou-parent/lagou-service-resume/lagou-service-resume.iml" />
+    </modules>
+  </component>
+</project>
