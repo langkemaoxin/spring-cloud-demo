@@ -12,6 +12,8 @@
     <artifactId>lagou-service-resume</artifactId>
 
     <dependencies>
+
+
         <dependency>
             <groupId>com.lagou.edu</groupId>
             <artifactId>lagou-service-common</artifactId>

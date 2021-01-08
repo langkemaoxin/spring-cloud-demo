@@ -11,7 +11,7 @@
         <module name="lagou-service-resume" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="lagou-parent" target="11" />
       <module name="lagou-service-autodeliver" target="11" />
       <module name="lagou-service-common" target="11" />
