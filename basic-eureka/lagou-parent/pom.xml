@@ -11,6 +11,7 @@
         <module>lagou-service-common</module>
         <module>lagou-service-autodeliver</module>
         <module>lagou-service-resume</module>
+        <module>lagou-cloud-eureka-server-8761</module>
     </modules>
 
     <!--⽗⼯程打包⽅式为pom-->
@@ -24,6 +25,18 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>Greenwich.RELEASE</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
     <dependencies>
         <!--web依赖-->
@@ -60,6 +73,34 @@
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
         </dependency>
+
+
+        <!--引⼊Jaxb，开始-->
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-core</artifactId>
+            <version>2.2.11</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+            <version>2.2.11</version>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jaxb</groupId>
+            <artifactId>jaxb-runtime</artifactId>
+            <version>2.2.10-b140310.1920</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.activation</groupId>
+            <artifactId>activation</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <!--引⼊Jaxb，结束-->
     </dependencies>
 
     <build>
