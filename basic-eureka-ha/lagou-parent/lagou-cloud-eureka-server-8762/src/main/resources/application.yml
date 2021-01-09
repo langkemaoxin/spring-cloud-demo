@@ -7,14 +7,15 @@ spring:
 #eureka客户端配置(和Server交互)，EurekaServer 其实也是一个Client
 eureka:
   instance:
-    hostname: localhost # 当前Eureka实例的主机名
+    hostname: LagouCloudEurekaServerB # 当前Eureka实例的主机名
 
   client:
     service-url: #配置客户端所交互的Eureka Server的地址 地址指向自己地址
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka  #http://localhost:8761/eureka
+      # 集群模式下，指向其他注册服务服务,如果有其他Server实例，使用逗号进行添加
+      defaultZone: http://LagouCloudEurekaServerA:8761/eureka  #http://localhost:8761/eureka
 
-    register-with-eureka: false  # 当前自己就是Server，不需要注册自己
-    fetch-registry: false # 查询获取注册中的服务信息，自己就是Server，不需要冲Eureka Server中获取信息
+    register-with-eureka: true  # 集群模式下，true
+    fetch-registry: true # 集群模式下，true
 
 
 
