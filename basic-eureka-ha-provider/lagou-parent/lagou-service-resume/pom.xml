@@ -14,11 +14,18 @@
     <dependencies>
 
 
+        <!-- eurake client 客户端引入依赖-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+
         <dependency>
             <groupId>com.lagou.edu</groupId>
             <artifactId>lagou-service-common</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
 </project>

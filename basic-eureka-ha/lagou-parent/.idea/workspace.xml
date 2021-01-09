@@ -162,7 +162,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../basic-eureka-ha-provider/lagou-parent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -255,12 +255,12 @@
       <workItem from="1610172837575" duration="1226000" />
       <workItem from="1610174337078" duration="1716000" />
       <workItem from="1610181413273" duration="69000" />
-      <workItem from="1610181691280" duration="1774000" />
+      <workItem from="1610181691280" duration="1855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4785000" />
+    <option name="totallyTimeSpent" value="4866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
