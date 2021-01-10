@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-parent.iml" filepath="$PROJECT_DIR$/lagou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver/lagou-service-autodeliver.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver/lagou-service-autodeliver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" filepath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume/lagou-service-resume.iml" filepath="$PROJECT_DIR$/lagou-service-resume/lagou-service-resume.iml" />
+    </modules>
+  </component>
+</project>

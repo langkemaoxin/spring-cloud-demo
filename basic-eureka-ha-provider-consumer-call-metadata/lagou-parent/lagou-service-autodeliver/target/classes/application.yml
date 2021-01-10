@@ -1,0 +1,17 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: lagou-service-autodeliver
+
+eureka:
+  client:
+    service-url:
+      # 注册集群，就把多个Eureka地址 使用逗号链接起来即可
+      defaultZone: http://LagouCloudEurekaServerA:8761/eureka,http://LagouCloudEurekaServerB:8762/eureka
+  instance:
+    prefer-ip-address: true # 服务实例中显示IP，而不是显示主机名
+    # ip-address: 192.168.56.1
+    # 自定义实例名称
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:1.0-SNAPSHOT
+
