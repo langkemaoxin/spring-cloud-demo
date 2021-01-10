@@ -30,3 +30,8 @@ eureka:
     # ip-address: 192.168.56.1
     # 自定义实例名称
     instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:1.0-SNAPSHOT
+
+    # 自定义元数据
+    metadata-map:
+      cluster: cl1
+      regin: shanghai
