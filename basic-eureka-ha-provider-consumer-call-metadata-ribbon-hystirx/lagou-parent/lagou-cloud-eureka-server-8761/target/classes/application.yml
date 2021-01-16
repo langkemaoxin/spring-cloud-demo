@@ -1,0 +1,41 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: lagou-cloud-eureka-server # 应用名称，会在Eureka中作为服务名称
+
+#eureka客户端配置(和Server交互)，EurekaServer 其实也是一个Client
+eureka:
+  instance:
+    hostname: LagouCloudEurekaServerA # 当前Eureka实例的主机名
+    prefer-ip-address: true # 服务实例中显示IP，而不是显示主机名
+    # ip-address: 192.168.56.1
+    # 自定义实例名称
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:1.0-SNAPSHOT
+
+  client:
+    service-url: #配置客户端所交互的Eureka Server的地址 地址指向自己地址
+      # 集群模式下，指向其他注册服务服务,如果有其他Server实例，使用逗号进行添加
+      defaultZone: http://LagouCloudEurekaServerB:8762/eureka  #http://localhost:8761/eureka
+
+    register-with-eureka: true  # 集群模式下，true
+    fetch-registry: true # 集群模式下，true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
