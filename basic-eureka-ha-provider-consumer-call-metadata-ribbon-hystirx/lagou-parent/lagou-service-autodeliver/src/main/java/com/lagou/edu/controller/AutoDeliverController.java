@@ -1,5 +1,7 @@
 package com.lagou.edu.controller;
 
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixProperty;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
@@ -69,5 +71,78 @@ public class AutoDeliverController {
         Integer forObject = restTemplate.getForObject(url ,Integer.class);
 
         return forObject;
+    }
+
+
+    /**
+     * 提供者模式处理超时
+     * 添加
+     * @param userId
+     * @return
+     */
+
+    //HystrixCommand进行熔断控制
+    @HystrixCommand(
+            threadPoolKey = "findResumeOpenStateTimeOut",
+            threadPoolProperties = {
+                @HystrixProperty(name = "coreSize",value = "1"),
+                @HystrixProperty(name = "maxQueueSize",value = "20"),
+            },
+
+            commandProperties ={
+            //HystrixCommandProperties ==> 这个类里面定义了，各种不同的参数配置
+            //每个属性都是HystrixProperty
+            //@HystrixProperty(name="execution.isolation.thread.timeoutInMilliseconds",value="2000")
+
+            @HystrixProperty(name ="metrics.rollingStats.timeInMilliseconds",value = "8000"),
+            @HystrixProperty(name ="circuitBreaker.requestVolumeThreshold",value = "2"),
+            @HystrixProperty(name ="circuitBreaker.errorThresholdPercentage",value = "50"),
+            @HystrixProperty(name ="circuitBreaker.sleepWindowInMilliseconds",value = "3000")
+})
+    //http://localhost:8090/autodeliver/checkStateTimeout/1545133
+    @GetMapping("/checkStateTimeout/{userId}")
+    public Integer findResumeOpenStateTimeOut(@PathVariable Long userId){
+
+        String url="http://lagou-service-resume/resume/openstate/" + userId;
+
+        Integer forObject = restTemplate.getForObject(url ,Integer.class);
+
+        return forObject;
+    }
+
+
+    //HystrixCommand进行熔断控制
+    @HystrixCommand(
+            threadPoolKey = "findResumeOpenStateFailBack",
+            threadPoolProperties = {
+                    @HystrixProperty(name = "coreSize",value = "2"),
+                    @HystrixProperty(name = "maxQueueSize",value = "20"),
+            },
+
+            commandProperties ={
+            //HystrixCommandProperties ==> 这个类里面定义了，各种不同的参数配置
+
+            //每个属性都是HystrixProperty
+            @HystrixProperty(name="execution.isolation.thread.timeoutInMilliseconds",value="3000")
+    },fallbackMethod = "fallback")
+    //http://localhost:8090/autodeliver/checkStateFailback/1545133
+    @GetMapping("/checkStateFailback/{userId}")
+    public Integer findResumeOpenStateFailBack(@PathVariable Long userId){
+
+        String url="http://lagou-service-resume/resume/openstate/" + userId;
+
+        Integer forObject = restTemplate.getForObject(url ,Integer.class);
+
+        return forObject;
+    }
+
+    /**
+     * 兜底数据
+     * 方法形参和返回值和原始方法一致
+     * @param userId
+     * @return
+     */
+    public Integer fallback(Long userId){
+        return -1;
     }
 }

@@ -4,11 +4,7 @@
     <bookmark url="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java" line="106" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/target/classes/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/lagou-service-autodeliver/target/" />
     <ignored path="$PROJECT_DIR$/lagou-service-common/target/" />
@@ -247,7 +243,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx/lagou-parent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -382,7 +378,7 @@
       <workItem from="1610492634824" duration="6275000" />
       <workItem from="1610575684049" duration="261000" />
       <workItem from="1610576103182" duration="8220000" />
-      <workItem from="1610740504041" duration="12826000" />
+      <workItem from="1610740504041" duration="12898000" />
     </task>
     <servers />
   </component>
@@ -404,7 +400,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56239000" />
+    <option name="totallyTimeSpent" value="56311000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,7 +413,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.21631777" />
       <window_info id="Structure" order="1" sideWeight="0.4659271" side_tool="true" weight="0.3370907" />

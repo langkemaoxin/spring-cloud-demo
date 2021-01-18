@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_0_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/lagou-service-autodeliver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/lagou-service-autodeliver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/AutodeliverApplicaton.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/AutodeliverApplicaton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic-eureka-ha-provider-consumer-call-metadata-ribbon/lagou-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../basic-eureka-ha-provider-consumer-call-metadata-ribbon/lagou-parent/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/lagou-service-autodeliver/target/" />
@@ -33,63 +48,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="138" column="28" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="81" column="11" lean-forward="true" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/DynamicServerListLoadBalancer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-              <folding>
-                <element signature="e#2118#2258#0" expanded="true" />
-                <element signature="e#2257#2258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RoundRobinRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-              <folding>
-                <element signature="e#3313#3314#0" expanded="true" />
-                <element signature="e#3366#3367#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/AbstractLoadBalancerRule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RandomRule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="92" column="5" lean-forward="true" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+            <state relative-caret-position="1392">
+              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
               <folding>
                 <element signature="e#2631#2632#0" expanded="true" />
                 <element signature="e#2675#2676#0" expanded="true" />
@@ -99,23 +61,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ServerList.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state relative-caret-position="552">
+              <caret line="23" column="21" selection-start-line="20" selection-start-column="5" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-eureka/2.3.0/ribbon-eureka-2.3.0-sources.jar!/com/netflix/niws/loadbalancer/DiscoveryEnabledNIWSServerList.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/AutodeliverApplicaton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="150" column="40" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
-              <folding>
-                <element signature="e#5902#5903#0" expanded="true" />
-                <element signature="e#5952#5953#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="744">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/client/SpringCloudApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/develop/maven/repository/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18-sources.jar!/com/netflix/hystrix/HystrixCommandProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2232">
+              <caret line="122" column="89" selection-start-line="122" selection-start-column="80" selection-end-line="122" selection-end-column="128" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -123,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ServerListUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="576">
               <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
@@ -132,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/PollingServerListUpdater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
+            <state relative-caret-position="2040">
               <caret line="103" column="29" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
             </state>
           </provider>
@@ -172,7 +175,6 @@
         <option value="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/src/main/java/com/lagou/edu/LagouEurekaServerApp8762.java" />
         <option value="$PROJECT_DIR$/lagou-service-resume/pom.xml" />
         <option value="$PROJECT_DIR$/lagou-service-resume/src/main/java/com/lagou/edu/LagouResumeApplication.java" />
-        <option value="$PROJECT_DIR$/lagou-service-autodeliver/pom.xml" />
         <option value="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-service-resume/src/main/resources/application.yml" />
@@ -181,11 +183,12 @@
         <option value="$PROJECT_DIR$/lagou-service-resume-8081/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-service-resume-8080/pom.xml" />
         <option value="$PROJECT_DIR$/lagou-service-resume-8081/src/main/java/com/lagou/edu/controller/ResumeController.java" />
-        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java" />
-        <option value="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver/src/test/java/AutoDeliverApplicationTest.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver/pom.xml" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/AutodeliverApplicaton.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" />
       </list>
     </option>
   </component>
@@ -210,10 +213,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-101" />
-    <option name="y" value="136" />
-    <option name="width" value="1736" />
-    <option name="height" value="786" />
+    <option name="x" value="-13" />
+    <option name="y" value="7" />
+    <option name="width" value="1863" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -223,6 +226,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,12 +235,86 @@
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,7 +350,7 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.16858238" />
+    <option name="contentProportion" value="0.23754789" />
   </component>
   <component name="RunManager" selected="Spring Boot.AutodeliverApplicaton">
     <configuration name="All in lagou-cloud-eureka-server-8761" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -351,8 +430,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.LagouEurekaServerApp8762" />
         <item itemvalue="Spring Boot.LagouEurekaServerApp8761" />
+        <item itemvalue="Spring Boot.LagouEurekaServerApp8762" />
         <item itemvalue="JUnit.AutoDeliverApplicationTest.testRibbon" />
         <item itemvalue="JUnit.AutoDeliverApplicationTest.testInstanceMetaData" />
         <item itemvalue="JUnit.All in lagou-cloud-eureka-server-8761" />
@@ -383,6 +462,8 @@
       <workItem from="1610575684049" duration="261000" />
       <workItem from="1610576103182" duration="8220000" />
       <workItem from="1610740504041" duration="12826000" />
+      <workItem from="1610776000506" duration="8819000" />
+      <workItem from="1610928816542" duration="1054000" />
     </task>
     <servers />
   </component>
@@ -404,7 +485,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56239000" />
+    <option name="totallyTimeSpent" value="66112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,7 +500,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.21631777" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.2673108" />
       <window_info id="Structure" order="1" sideWeight="0.4659271" side_tool="true" weight="0.3370907" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -442,7 +523,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.04222222" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.31777778" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.13150832" />
@@ -471,7 +552,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java</url>
-          <line>44</line>
+          <line>46</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -495,7 +576,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java</url>
-          <line>66</line>
+          <line>68</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
@@ -547,27 +628,6 @@
     <SUITE FILE_PATH="coverage/lagou_parent$AutoDeliverApplicationTest_testInstanceMetaData.ic" NAME="AutoDeliverApplicationTest.testInstanceMetaData Coverage Results" MODIFIED="1610265850016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/develop/maven/repository/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8-sources.jar!/com/netflix/eureka/transport/JerseyReplicationClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="58" column="7" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.1.0.RELEASE/spring-cloud-netflix-eureka-server-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerInitializerConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-service-resume-8081/src/main/java/com/lagou/edu/LagouResumeApplication8081.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -612,13 +672,6 @@
     <entry file="file://$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-service-resume-8081/src/main/java/com/lagou/edu/controller/ResumeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -633,13 +686,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -765,20 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/AutodeliverApplicaton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="68" column="28" lean-forward="true" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
@@ -846,58 +878,22 @@
     </entry>
     <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="2064">
           <caret line="138" column="28" selection-start-line="138" selection-start-column="28" selection-end-line="138" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="81" column="11" lean-forward="true" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/PollingServerListUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="103" column="29" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ServerListUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-eureka/2.3.0/ribbon-eureka-2.3.0-sources.jar!/com/netflix/niws/loadbalancer/DiscoveryEnabledNIWSServerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="150" column="40" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
-          <folding>
-            <element signature="e#5902#5903#0" expanded="true" />
-            <element signature="e#5952#5953#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ServerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        <state relative-caret-position="1128">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/DynamicServerListLoadBalancer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-          <folding>
-            <element signature="e#2118#2258#0" expanded="true" />
-            <element signature="e#2257#2258#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1320">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -919,14 +915,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ServerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-eureka/2.3.0/ribbon-eureka-2.3.0-sources.jar!/com/netflix/niws/loadbalancer/DiscoveryEnabledNIWSServerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2664">
+          <caret line="150" column="40" selection-start-line="150" selection-start-column="40" selection-end-line="150" selection-end-column="40" />
+          <folding>
+            <element signature="e#5902#5903#0" expanded="true" />
+            <element signature="e#5952#5953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RandomRule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="92" column="5" lean-forward="true" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+        <state relative-caret-position="1392">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
           <folding>
             <element signature="e#2631#2632#0" expanded="true" />
             <element signature="e#2675#2676#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="21" selection-start-line="20" selection-start-column="5" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/AutodeliverApplicaton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/client/SpringCloudApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18-sources.jar!/com/netflix/hystrix/HystrixCommandProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2232">
+          <caret line="122" column="89" selection-start-line="122" selection-start-column="80" selection-end-line="122" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ServerListUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/PollingServerListUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="103" column="29" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="94" column="25" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="25" />
         </state>
       </provider>
     </entry>
