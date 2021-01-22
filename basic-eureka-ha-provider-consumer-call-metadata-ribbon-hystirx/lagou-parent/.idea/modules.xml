@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/lagou-cloud-hystrix-dashboard-9000.iml" filepath="$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/lagou-cloud-hystrix-dashboard-9000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/lagou-cloud-hystrix-turbine-9001.iml" filepath="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/lagou-cloud-hystrix-turbine-9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-parent.iml" filepath="$PROJECT_DIR$/lagou-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver/lagou-service-autodeliver.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver/lagou-service-autodeliver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" filepath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" />

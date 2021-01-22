@@ -34,10 +34,10 @@ import org.springframework.web.client.RestTemplate;
 
 //@SpringCloudApplication
 
-public class AutodeliverApplicaton {
+public class AutodeliverApplicaton8091 {
 
     public static void main(String[] args) {
-        SpringApplication.run(AutodeliverApplicaton.class, args);
+        SpringApplication.run(AutodeliverApplicaton8091.class, args);
     }
 
     //使用Resttemple进行远程调用,先对注入该对象

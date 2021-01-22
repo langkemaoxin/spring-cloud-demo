@@ -1,0 +1,36 @@
+server:
+  port: 8091
+spring:
+  application:
+    name: lagou-service-autodeliver
+
+eureka:
+  client:
+    service-url:
+      # 注册集群，就把多个Eureka地址 使用逗号链接起来即可
+      defaultZone: http://LagouCloudEurekaServerA:8761/eureka,http://LagouCloudEurekaServerB:8762/eureka
+  instance:
+    prefer-ip-address: true # 服务实例中显示IP，而不是显示主机名
+    # ip-address: 192.168.56.1
+    # 自定义实例名称
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:@project.version@
+
+#针对的被调⽤⽅微服务名称,不加就是全局⽣效
+lagou-service-resume:
+  ribbon:
+   NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule #负载策略调整
+
+# springboot中暴露健康检查等断点接⼝
+management:
+  endpoints:
+   web:
+    exposure:
+     include: "*"
+  # 暴露健康接⼝的细节
+  endpoint:
+   health:
+    show-details: always
+
+# 全局⽣效
+#ribbon:
+#  NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule #负载策略调整
