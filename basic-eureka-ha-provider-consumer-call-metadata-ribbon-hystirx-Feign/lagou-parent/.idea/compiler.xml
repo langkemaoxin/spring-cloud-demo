@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lagou-service-resume-8080" />
+        <module name="lagou-service-autodeliver-8096" />
+        <module name="lagou-cloud-hystrix-turbine-9001" />
+        <module name="lagou-service-autodeliver-8090" />
+        <module name="lagou-cloud-hystrix-dashboard-9000" />
+        <module name="lagou-cloud-eureka-server-8762" />
+        <module name="lagou-cloud-eureka-server-8761" />
+        <module name="lagou-service-common" />
+        <module name="lagou-service-autodeliver-8091" />
+        <module name="lagou-service-resume-8081" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lagou-cloud-eureka-server-8761" target="11" />
+      <module name="lagou-cloud-eureka-server-8762" target="11" />
+      <module name="lagou-cloud-hystrix-dashboard-9000" target="11" />
+      <module name="lagou-cloud-hystrix-turbine-9001" target="11" />
+      <module name="lagou-parent" target="11" />
+      <module name="lagou-service-autodeliver-8090" target="11" />
+      <module name="lagou-service-autodeliver-8091" target="11" />
+      <module name="lagou-service-autodeliver-8096" target="11" />
+      <module name="lagou-service-common" target="11" />
+      <module name="lagou-service-resume-8080" target="11" />
+      <module name="lagou-service-resume-8081" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lagou-cloud-eureka-server-8761" options="-parameters" />
+      <module name="lagou-cloud-eureka-server-8762" options="-parameters" />
+      <module name="lagou-cloud-hystrix-dashboard-9000" options="-parameters" />
+      <module name="lagou-cloud-hystrix-turbine-9001" options="-parameters" />
+      <module name="lagou-service-autodeliver-8090" options="-parameters" />
+      <module name="lagou-service-autodeliver-8091" options="-parameters" />
+      <module name="lagou-service-autodeliver-8096" options="-parameters" />
+      <module name="lagou-service-common" options="-parameters" />
+      <module name="lagou-service-resume-8080" options="-parameters" />
+      <module name="lagou-service-resume-8081" options="-parameters" />
+    </option>
+  </component>
+</project>
