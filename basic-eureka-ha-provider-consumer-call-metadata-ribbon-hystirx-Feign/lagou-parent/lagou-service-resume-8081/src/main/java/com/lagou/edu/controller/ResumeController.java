@@ -28,8 +28,6 @@ public class ResumeController {
     //http://localhost:8081/resume/openstate/1545133
     @GetMapping("/openstate/{userId}")
     public Integer findDefaultResumeState(@PathVariable Long userId){
-
-
         System.out.println("===》》》》》》》》》》》》我是8081");
         return port;
     }
