@@ -8,19 +8,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lagou-service-resume-8080" />
-        <module name="lagou-service-resume-8081" />
-        <module name="lagou-cloud-gateway-server-9002" />
         <module name="lagou-service-autodeliver-8096" />
+        <module name="lagou-service-autodeliver-8090" />
+        <module name="lagou-cloud-gateway-server-9002" />
         <module name="lagou-cloud-hystrix-turbine-9001" />
         <module name="lagou-cloud-hystrix-dashboard-9000" />
+        <module name="lagou-cloud-configserver-9006" />
         <module name="lagou-cloud-eureka-server-8762" />
         <module name="lagou-cloud-eureka-server-8761" />
         <module name="lagou-service-common" />
         <module name="lagou-service-autodeliver-8091" />
-        <module name="lagou-service-autodeliver-8090" />
+        <module name="lagou-service-resume-8081" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="lagou-cloud-configserver-9006" target="11" />
       <module name="lagou-cloud-eureka-server-8761" target="11" />
       <module name="lagou-cloud-eureka-server-8762" target="11" />
       <module name="lagou-cloud-gateway-server-9002" target="11" />
@@ -37,6 +39,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lagou-cloud-configserver-9006" options="-parameters" />
       <module name="lagou-cloud-eureka-server-8761" options="-parameters" />
       <module name="lagou-cloud-eureka-server-8762" options="-parameters" />
       <module name="lagou-cloud-gateway-server-9002" options="-parameters" />

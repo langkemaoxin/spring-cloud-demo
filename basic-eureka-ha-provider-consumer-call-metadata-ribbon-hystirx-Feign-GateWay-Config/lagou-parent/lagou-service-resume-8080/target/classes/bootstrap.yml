@@ -11,6 +11,7 @@ spring:
    username: root
    password: root
 
+
   jpa:
    database: MySQL
    show-sql: true
@@ -18,6 +19,22 @@ spring:
     naming:
      physical-strategy:
       org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl #避免将驼峰命名转换为下划线命名
+
+  cloud:
+    # config客户端配置,和ConfigServer通信，并告知ConfigServer希望获取的配置信息在哪个⽂件中
+    config:
+      label: main  #分⽀名称
+
+      ## ===>这里的配置，对应着在git上面的配置文件
+      name:  lagou-server-resume #配置⽂件名称
+      profile: dev #后缀名称
+      uri:  http://localhost:9006 #ConfigServer配置中⼼地址
+
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
 
 # 注册到Eureka服务中心
 eureka:
@@ -29,9 +46,15 @@ eureka:
     prefer-ip-address: true # 服务实例中显示IP，而不是显示主机名
     # ip-address: 192.168.56.1
     # 自定义实例名称
-    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:1.0-SNAPSHOT
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:@project.version@
 
     # 自定义元数据
     metadata-map:
       cluster: cl1
       regin: shanghai
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

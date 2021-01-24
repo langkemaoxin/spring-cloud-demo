@@ -9,27 +9,22 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lagou-service-resume-8080</artifactId>
+    <artifactId>lagou-cloud-configserver-9006</artifactId>
+
 
     <dependencies>
-
-
-        <!-- eurake client 客户端引入依赖-->
+        <!--eureka client 客户端依赖引⼊-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>com.lagou.edu</groupId>
-            <artifactId>lagou-service-common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-
+        <!--config配置中⼼服务端-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-config-client</artifactId>
+            <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
+
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
@@ -37,5 +32,4 @@
         </dependency>
 
     </dependencies>
-
 </project>

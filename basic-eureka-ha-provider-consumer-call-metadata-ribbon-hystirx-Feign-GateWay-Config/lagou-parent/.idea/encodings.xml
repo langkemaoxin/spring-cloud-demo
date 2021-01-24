@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-cloud-configserver-9006" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8762" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002" charset="UTF-8" />

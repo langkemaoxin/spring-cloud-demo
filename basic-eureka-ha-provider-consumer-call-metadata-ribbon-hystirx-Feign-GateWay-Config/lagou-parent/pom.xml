@@ -18,6 +18,7 @@
         <module>lagou-cloud-hystrix-dashboard-9000</module>
         <module>lagou-cloud-hystrix-turbine-9001</module>
         <module>lagou-service-autodeliver-8096</module>
+        <module>lagou-cloud-configserver-9006</module>
     </modules>
 
     <!--⽗⼯程打包⽅式为pom-->
