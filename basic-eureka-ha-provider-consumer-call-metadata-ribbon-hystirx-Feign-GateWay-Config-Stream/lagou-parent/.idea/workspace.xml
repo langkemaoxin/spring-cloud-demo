@@ -4,22 +4,7 @@
     <bookmark url="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java" line="106" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/lagou-cloud-stream-consumer-9091.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/StreamConsumerApplication9091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/service/MessageConsumerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/lagou-cloud-stream-consumer-9092.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/lagou-cloud-stream-producer-9090.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/StreamProducerApplication9090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/service/IMessageProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/service/MessageProducerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/test/java/MessageProducerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config/lagou-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config/lagou-parent/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/lagou-service-autodeliver/target/" />
     <ignored path="$PROJECT_DIR$/lagou-service-common/target/" />
@@ -56,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="408">
               <caret line="17" selection-start-line="17" selection-end-line="37" selection-end-column="77" />
             </state>
           </provider>
@@ -66,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -75,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/GateWayApplication9002.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -249,10 +234,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-29" />
-    <option name="y" value="246" />
+    <option name="x" value="763" />
+    <option name="y" value="109" />
     <option name="width" value="1936" />
-    <option name="height" value="961" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -263,7 +248,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -272,128 +256,11 @@
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-cloud-gateway-server-9002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-cloud-gateway-server-9002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-cloud-gateway-server-9002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-cloud-gateway-server-9002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-cloud-gateway-server-9002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-cloud-gateway-server-9002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -625,6 +492,7 @@
       <workItem from="1612391892820" duration="3206000" />
       <workItem from="1612479218758" duration="598000" />
       <workItem from="1612658031470" duration="1570000" />
+      <workItem from="1614491754745" duration="1201000" />
     </task>
     <servers />
   </component>
@@ -661,7 +529,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131757000" />
+    <option name="totallyTimeSpent" value="132958000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -673,10 +541,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="284" y="145" width="1936" height="961" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.24637681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.35050994" />
       <window_info id="Structure" order="1" sideWeight="0.4659271" side_tool="true" weight="0.3370907" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -699,7 +566,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.36666667" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.4099379" />
       <window_info anchor="bottom" id="Java Regex Tester" order="16" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1171,6 +1038,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="37" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/GateWayApplication9002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/service/ResumeFallback.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1220,24 +1101,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" selection-start-line="17" selection-end-line="37" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/GateWayApplication9002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
         </state>
       </provider>
     </entry>
