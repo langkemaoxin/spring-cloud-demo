@@ -12,8 +12,6 @@
     <artifactId>lagou-service-resume-8081</artifactId>
 
     <dependencies>
-
-
         <!-- eurake client 客户端引入依赖-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
@@ -26,6 +24,15 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
-    </dependencies>
+        <!--链路追踪-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-sleuth</artifactId>
+        </dependency>
 
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zipkin</artifactId>
+        </dependency>
+    </dependencies>
 </project>

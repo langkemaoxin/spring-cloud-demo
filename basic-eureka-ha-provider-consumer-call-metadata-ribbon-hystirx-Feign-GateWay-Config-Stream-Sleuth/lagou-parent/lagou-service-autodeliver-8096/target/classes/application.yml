@@ -3,7 +3,13 @@ server:
 spring:
   application:
     name: lagou-service-autodeliver
-
+  zipkin:
+    base-url: http://localhost:9411
+    sender:
+      type: web #直接向这个地址发送请求
+  sleuth:
+    sampler:
+      probability: 1
 eureka:
   client:
     service-url:
@@ -57,6 +63,9 @@ logging:
   level:
   # Feign⽇志只会对⽇志级别为debug的做出响应
    com.lagou.edu.service.ResumeServiceFeignClient: debug
+#分布式链路追踪
+   org.springframework.web.servlet.DispatcherServlet: debug
+   org.springframework.cloud.sleuth: debug
 
 # 开启Feign的熔断功能
 feign:

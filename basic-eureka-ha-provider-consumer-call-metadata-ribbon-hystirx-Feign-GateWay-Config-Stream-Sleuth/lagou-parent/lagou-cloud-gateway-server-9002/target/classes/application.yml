@@ -19,7 +19,7 @@ spring:
       routes: # 路由可以有多个
         - id: service-autodeliver-router # 我们⾃定义的路由 ID，保持唯⼀
           #uri: http://127.0.0.1:8096 # ⽬标服务地址 ⾃动投递微服务（部署多实例） 动态路由：uri配置的应该是⼀个服务名称，⽽不应该是⼀个具体的服务实例的地址
-          uri: lb://LAGOU-SERVICE-AUTODELIVERZ
+          uri: lb://LAGOU-SERVICE-AUTODELIVER
           #http://localhost:9002/autodeliver/checkState/1545133
           #http://localhost:8096/autodeliver/checkState/1545133
 
@@ -36,3 +36,17 @@ spring:
             - Path=/resume/**
           filters:
             - StripPrefix=1
+  zipkin:
+    base-url: http://localhost:9411
+    sender:
+      type: web #直接向这个地址发送请求
+  sleuth:
+    sampler:
+      probability: 1
+
+
+#分布式链路追踪
+logging:
+  level:
+    org.springframework.web.servlet.DispatcherServlet: debug
+    org.springframework.cloud.sleuth: debug

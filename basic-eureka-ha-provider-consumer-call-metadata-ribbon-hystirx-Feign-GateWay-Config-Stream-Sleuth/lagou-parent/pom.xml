@@ -24,6 +24,7 @@
         <module>lagou-cloud-stream-producer-9090</module>
         <module>lagou-cloud-stream-consumer-9091</module>
         <module>lagou-cloud-stream-consumer-9092</module>
+        <module>lagou-cloud-zipkin-server-9411</module>
     </modules>
 
 

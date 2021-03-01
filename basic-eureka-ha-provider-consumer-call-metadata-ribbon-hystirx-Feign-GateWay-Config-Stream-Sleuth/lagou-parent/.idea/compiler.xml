@@ -12,16 +12,17 @@
         <module name="lagou-service-common" />
         <module name="lagou-cloud-stream-producer-9090" />
         <module name="lagou-cloud-configserver-9006" />
+        <module name="lagou-cloud-zipkin-server-9411" />
         <module name="lagou-cloud-gateway-server-9002" />
         <module name="lagou-cloud-stream-consumer-9092" />
         <module name="lagou-cloud-stream-consumer-9091" />
         <module name="lagou-cloud-eureka-server-8762" />
         <module name="lagou-cloud-eureka-server-8761" />
-        <module name="lagou-service-autodeliver-8096" />
         <module name="lagou-cloud-hystrix-turbine-9001" />
+        <module name="lagou-cloud-hystrix-dashboard-9000" />
         <module name="lagou-service-resume-8081" />
         <module name="lagou-service-resume-8080" />
-        <module name="lagou-cloud-hystrix-dashboard-9000" />
+        <module name="lagou-service-autodeliver-8096" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -34,6 +35,7 @@
       <module name="lagou-cloud-stream-consumer-9091" target="11" />
       <module name="lagou-cloud-stream-consumer-9092" target="11" />
       <module name="lagou-cloud-stream-producer-9090" target="11" />
+      <module name="lagou-cloud-zipkin-server-9411" target="11" />
       <module name="lagou-parent" target="11" />
       <module name="lagou-service-autodeliver-8090" target="11" />
       <module name="lagou-service-autodeliver-8091" target="11" />
@@ -54,6 +56,7 @@
       <module name="lagou-cloud-stream-consumer-9091" options="-parameters" />
       <module name="lagou-cloud-stream-consumer-9092" options="-parameters" />
       <module name="lagou-cloud-stream-producer-9090" options="-parameters" />
+      <module name="lagou-cloud-zipkin-server-9411" options="-parameters" />
       <module name="lagou-service-autodeliver-8090" options="-parameters" />
       <module name="lagou-service-autodeliver-8091" options="-parameters" />
       <module name="lagou-service-autodeliver-8096" options="-parameters" />
