@@ -5,11 +5,16 @@ spring:
     name: lagou-service-resume
 
   zipkin:
-    base-url: http://localhost:9411
+    base-url: http://localhost:9411 # zipkin server的请求地址
     sender:
+      # web 客户端将踪迹⽇志数据通过⽹络请求的⽅式传送到服务端，另外还有配置
+      # kafka/rabbit 客户端将踪迹⽇志数据传递到mq进⾏中转
       type: web #直接向这个地址发送请求
   sleuth:
     sampler:
+      # 采样率 1 代表100%全部采集 ，默认0.1 代表10% 的请求踪迹数据会被采集
+      # ⽣产环境下，请求量⾮常⼤，没有必要所有请求的踪迹数据都采集分析，对于⽹络包括server端压⼒都是⽐较⼤的，
+      # 可以配置采样率采集⼀定⽐例的请求的踪迹数据进⾏分析即可
       probability: 1
   datasource:
    driver-class-name: com.mysql.jdbc.Driver

@@ -21,7 +21,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 //}
 
 
-@FeignClient(value = "lagou-service-resume",fallback = ResumeFallback.class,path = "/resume")
+//@FeignClient(value = "lagou-service-resume",fallback = ResumeFallback.class,path = "/resume")
+@FeignClient(value = "lagou-service-resume",path = "/resume")
 //@RequestMapping("/resume")
 public interface ResumeServiceFeignClient {
 

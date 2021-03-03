@@ -13,7 +13,7 @@ eureka:
 
 spring:
   application:
-  name: lagou-cloud-gateway
+    name: lagou-cloud-gateway
   cloud:
     gateway:
       routes: # 路由可以有多个
