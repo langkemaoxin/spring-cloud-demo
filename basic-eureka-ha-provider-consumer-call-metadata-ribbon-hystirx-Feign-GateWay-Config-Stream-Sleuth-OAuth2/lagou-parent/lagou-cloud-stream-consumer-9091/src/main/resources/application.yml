@@ -1,0 +1,30 @@
+server:
+  port: 9091
+spring:
+  application:
+    name: lagou-cloud-stream-producer
+  cloud:
+    stream:
+      binders: # 绑定MQ服务信息（此处我们是RabbitMQ）
+        lagouRabbitBinder: # 给Binder定义的名称，⽤于后⾯的关联
+          type: rabbit # MQ类型，如果是Kafka的话，此处配置kafka
+          environment: # MQ环境配置（⽤户名、密码等）
+            spring:
+              rabbitmq:
+                host: localhost
+                port: 5672
+                username: guest
+                password: guest
+      bindings: # 关联整合通道和binder对象
+        input: # output是我们定义的通道名称，此处不能乱改
+          destination: lagouExchange # 要使⽤的Exchange名称（消息队列主题名称）
+          content-type: text/plain # application/json # 消息类型设置，⽐如json
+          binder: lagouRabbitBinder # 关联MQ服务
+          group: lagou001
+
+eureka:
+  client:
+    serviceUrl: # eureka server的路径
+      defaultZone: http://lagoucloudeurekaservera:8761/eureka/,http://lagoucloudeurekaserverb:8762/eureka/ #把 eureka 集群中的所有 url 都填写了进来，也可以只写⼀台，因为各个 eureka server 可以同步注册表
+    instance:
+      prefer-ip-address: true #使⽤ip注册

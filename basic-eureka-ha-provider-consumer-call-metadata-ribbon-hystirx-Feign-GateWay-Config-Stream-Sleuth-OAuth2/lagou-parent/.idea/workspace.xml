@@ -242,9 +242,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="818" />
-    <option name="y" value="54" />
-    <option name="width" value="1936" />
+    <option name="x" value="91" />
+    <option name="y" value="52" />
+    <option name="width" value="1940" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -280,7 +280,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config-Stream-Sleuth-OAuth2/lagou-parent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -518,7 +518,7 @@
       <workItem from="1614811423929" duration="596000" />
       <workItem from="1614897179654" duration="1548000" />
       <workItem from="1615080265411" duration="599000" />
-      <workItem from="1615243155025" duration="346000" />
+      <workItem from="1615243155025" duration="236000" />
     </task>
     <servers />
   </component>
@@ -555,7 +555,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142743000" />
+    <option name="totallyTimeSpent" value="142633000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -568,6 +568,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="818" y="54" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.23510467" />
       <window_info id="Structure" order="1" sideWeight="0.4659271" side_tool="true" weight="0.3370907" />
