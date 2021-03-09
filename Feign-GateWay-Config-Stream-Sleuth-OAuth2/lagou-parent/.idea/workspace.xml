@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java" line="106" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8096/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8096/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8081/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8081/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-autodeliver/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-common/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-resume/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-resume-8080/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-resume-8081/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-autodeliver-8091/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-autodeliver-8096/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-autodeliver-8090/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-configserver-9006/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lagou-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/AutodeliverApplicaton8096.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/OthersController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" selection-start-line="6" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/OauthServerConfiger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="121" lean-forward="true" selection-start-line="16" selection-end-line="121" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3138#3139#0" expanded="true" />
+                <element signature="e#3184#3185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/SecurityConfiger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="56" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/config/ResourceServerConfiger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/OauthServerApplication9999.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/DemoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="7" selection-start-line="7" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>openForTraffic</find>
+      <find>shouldR</find>
+      <find>clientConfig</find>
+      <find>getAndStoreFullRegistry</find>
+      <find>initScheduledTasks</find>
+      <find>peerEurekaNodes</find>
+      <find>eurekaServerContext</find>
+      <find>jerseyFilterRegistration</find>
+      <find>restTemplates</find>
+      <find>defaultConfigType</find>
+      <find>org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker</find>
+      <find>hystrixCommandAnnotationPointcut</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/src/main/java/com/lagou/edu/HystrixTurbineApplication9001.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8091/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8091/src/test/java/AutoDeliverApplicationTest.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/AutodeliverApplicaton8096.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/test/java/AutoDeliverApplicationTest.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8081/src/main/java/com/lagou/edu/controller/ResumeController.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/config/FeignConfig.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/service/ResumeFallback.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/GateWayApplication9002.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ResumeController.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-configserver-9006/src/main/java/com/lagou/edu/ConfigApp.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/LagouResumeApplication8080.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/controller/ConfigController.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-configserver-9006/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8080/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-configserver-9006/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/StreamProducerApplication9090.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/service/IMessageProducer.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/service/MessageProducerImpl.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/test/java/MessageProducerTest.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/StreamConsumerApplication9091.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/service/MessageConsumerService.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/resources/applicatin.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8081/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/java/com/lagou/edu/ZipkinServerApplication9411.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/service/ResumeServiceFeignClient.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8081/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/OauthServerApplication9999.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/OauthServerConfiger.java" />
+        <option value="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/SecurityConfiger.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/config/ResourceServerConfiger.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/DemoController.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/OthersController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven\repository" />
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-245" />
+    <option name="y" value="279" />
+    <option name="width" value="1936" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-cloud-oauth-server-9999" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8096" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-resume-8081" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-resume-8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-resume-8081" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.edu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\spring-cloud-demo\basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config-Stream-Sleuth-OAuth2\lagou-parent\lagou-service-autodeliver-8096\src\main\java\com\lagou\edu\controller" />
+      <recent name="D:\github\spring-cloud-demo\basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config-Stream-Sleuth-OAuth2\lagou-parent\lagou-cloud-oauth-server-9999\src\main\resources" />
+      <recent name="D:\github\spring-cloud-demo\basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config-Stream\lagou-parent\lagou-cloud-stream-consumer-9091\src\main\resources" />
+      <recent name="D:\github\spring-cloud-demo\basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign\lagou-parent\lagou-service-autodeliver-8096\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.348659" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.AutodeliverApplicaton8096">
+    <configuration name="AutodeliverApplicaton" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-autodeliver-8090" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.AutodeliverApplicaton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutodeliverApplicaton8091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-autodeliver-8091" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.AutodeliverApplicaton8091" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutodeliverApplicaton8096" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-autodeliver-8096" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.AutodeliverApplicaton8096" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-configserver-9006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.ConfigApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayApplication9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-gateway-server-9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.GateWayApplication9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardApplication9000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-hystrix-dashboard-9000" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.HystrixDashboardApplication9000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixTurbineApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-hystrix-turbine-9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.HystrixTurbineApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LagouEurekaServerApp8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou-cloud-eureka-server-8761" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouEurekaServerApp8761" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LagouEurekaServerApp8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou-cloud-eureka-server-8762" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouEurekaServerApp8762" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LagouResumeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-resume-8080" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouResumeApplication8080" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LagouResumeApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-resume-8081" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouResumeApplication8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthServerApplication9999" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou-cloud-oauth-server-9999" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.OauthServerApplication9999" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamConsumerApplication9091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou-cloud-stream-consumer-9091" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.StreamConsumerApplication9091" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamConsumerApplication9092" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-stream-consumer-9092" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.StreamConsumerApplication9092" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamProducerApplication9090" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-stream-producer-9090" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.StreamProducerApplication9090" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinServerApplication9411" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lagou-cloud-zipkin-server-9411" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.ZipkinServerApplication9411" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.OauthServerApplication9999" />
+        <item itemvalue="Spring Boot.LagouEurekaServerApp8762" />
+        <item itemvalue="Spring Boot.LagouEurekaServerApp8761" />
+        <item itemvalue="Spring Boot.ZipkinServerApplication9411" />
+        <item itemvalue="Spring Boot.StreamConsumerApplication9091" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="" />
+      <created>1610172833582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610172833582</updated>
+      <workItem from="1610172837575" duration="1226000" />
+      <workItem from="1610174337078" duration="1716000" />
+      <workItem from="1610181413273" duration="69000" />
+      <workItem from="1610181691280" duration="1774000" />
+      <workItem from="1610184889421" duration="3770000" />
+      <workItem from="1610199237341" duration="1585000" />
+      <workItem from="1610201021495" duration="2046000" />
+      <workItem from="1610265318268" duration="8178000" />
+      <workItem from="1610317961710" duration="7997000" />
+      <workItem from="1610461375297" duration="296000" />
+      <workItem from="1610492634824" duration="6275000" />
+      <workItem from="1610575684049" duration="261000" />
+      <workItem from="1610576103182" duration="8220000" />
+      <workItem from="1610740504041" duration="12826000" />
+      <workItem from="1610776000506" duration="8819000" />
+      <workItem from="1610928816542" duration="1495000" />
+      <workItem from="1611015933535" duration="1629000" />
+      <workItem from="1611098488883" duration="324000" />
+      <workItem from="1611098847440" duration="2901000" />
+      <workItem from="1611184095357" duration="3934000" />
+      <workItem from="1611320527280" duration="2686000" />
+      <workItem from="1611323606613" duration="5152000" />
+      <workItem from="1611357891955" duration="13173000" />
+      <workItem from="1611406390212" duration="1858000" />
+      <workItem from="1611452005744" duration="6896000" />
+      <workItem from="1611473961253" duration="7602000" />
+      <workItem from="1611531124779" duration="606000" />
+      <workItem from="1611533558842" duration="2478000" />
+      <workItem from="1611616191762" duration="3642000" />
+      <workItem from="1612092537088" duration="2425000" />
+      <workItem from="1612220245747" duration="3926000" />
+      <workItem from="1612305239208" duration="598000" />
+      <workItem from="1612391892820" duration="3206000" />
+      <workItem from="1612479218758" duration="598000" />
+      <workItem from="1612658031470" duration="1570000" />
+      <workItem from="1614491754745" duration="1201000" />
+      <workItem from="1614602428854" duration="393000" />
+      <workItem from="1614602912140" duration="4013000" />
+      <workItem from="1614728386392" duration="2290000" />
+      <workItem from="1614811423929" duration="596000" />
+      <workItem from="1614897179654" duration="1548000" />
+      <workItem from="1615080265411" duration="599000" />
+      <workItem from="1615243155025" duration="236000" />
+      <workItem from="1615243504869" duration="460000" />
+      <workItem from="1615244010331" duration="6025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AutoDeliverApplicationTest_testInstanceMetaData - 2021.01.10 at 20h 55m 32s.xml">
+      <configuration name="AutoDeliverApplicationTest.testInstanceMetaData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoDeliverApplicationTest_testRibbon - 2021.01.14 at 07h 03m 49s.xml">
+      <configuration name="AutoDeliverApplicationTest.testRibbon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoDeliverApplicationTest_testRibbon - 2021.01.14 at 07h 04m 09s.xml">
+      <configuration name="AutoDeliverApplicationTest.testRibbon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoDeliverApplicationTest_testRibbon - 2021.01.14 at 07h 05m 11s.xml">
+      <configuration name="AutoDeliverApplicationTest.testRibbon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageProducerTest_testMessage - 2021.01.25 at 08h 35m 20s.xml">
+      <configuration name="MessageProducerTest.testMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageProducerTest_testMessage - 2021.01.25 at 08h 51m 23s.xml">
+      <configuration name="MessageProducerTest.testMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageProducerTest - 2021.01.25 at 08h 52m 50s.xml">
+      <configuration name="MessageProducerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageProducerTest_testMessage - 2021.01.26 at 07h 29m 26s.xml">
+      <configuration name="MessageProducerTest.testMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageProducerTest_testMessage - 2021.01.26 at 07h 52m 01s.xml">
+      <configuration name="MessageProducerTest.testMessage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MessageProducerTest_testMessage - 2021.01.26 at 08h 16m 13s.xml">
+      <configuration name="MessageProducerTest.testMessage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="149118000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.2909286" />
+      <window_info id="Structure" order="1" sideWeight="0.4659271" side_tool="true" weight="0.3370907" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50163937" side_tool="true" weight="0.25977504" />
+      <window_info id="Web" order="7" sideWeight="0.07176471" side_tool="true" weight="0.21685454" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50333333" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45833334" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3288889" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32921347" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.3311111" />
+      <window_info anchor="bottom" id="Java Regex Tester" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.13150832" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.09017713" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="leetcode" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3306495" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/src/main/java/com/lagou/edu/LagouEurekaServerApp8761.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-service-autodeliver-8090/src/main/java/com/lagou/edu/controller/AutoDeliverController.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-service-autodeliver-8090/src/test/java/AutoDeliverApplicationTest.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RoundRobinRule.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-service-autodeliver-8090/src/main/java/com/lagou/edu/controller/AutoDeliverController.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequestFactory.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/http/client/InterceptingClientHttpRequest.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/AutodeliverApplicaton8096.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java</url>
+          <line>467</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/LagouResumeApplication8080.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/LoadBalancerClientFilter.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-gateway-core/2.1.0.RELEASE/spring-cloud-gateway-core-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/gateway/filter/LoadBalancerClientFilter.java</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/src/main/java/com/lagou/edu/LagouEurekaServerApp8761.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalancerRequest.java</url>
+          <line>27</line>
+          <properties class="org.springframework.cloud.client.loadbalancer.LoadBalancerRequest" method="apply">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/develop/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0-sources.jar!/feign/ReflectiveFeign.java</url>
+          <line>81</line>
+          <properties class="feign.ReflectiveFeign.FeignInvocationHandler" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://D:/develop/maven/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ILoadBalancer.java</url>
+          <line>49</line>
+          <properties class="com.netflix.loadbalancer.ILoadBalancer" method="chooseServer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lagou_parent$All_in_lagou_cloud_eureka_server_8761.ic" NAME="All in lagou-cloud-eureka-server-8761 Coverage Results" MODIFIED="1610174970160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lagou_parent$AutoDeliverApplicationTest_testInstanceMetaData.ic" NAME="AutoDeliverApplicationTest.testInstanceMetaData Coverage Results" MODIFIED="1610265850016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/StreamProducerApplication9090.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/StreamConsumerApplication9091.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/service/MessageConsumerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/cloud/spring-cloud-stream/2.1.0.RELEASE/spring-cloud-stream-2.1.0.RELEASE.jar!/org/springframework/cloud/stream/messaging/Sink.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" selection-start-line="10" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/test/java/MessageProducerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/src/main/java/com/lagou/edu/StreamConsumerApplication9092.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2352">
+          <caret line="7" column="33" selection-start-line="6" selection-start-column="11" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8762/src/main/java/com/lagou/edu/LagouEurekaServerApp8762.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8762/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8080/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="38" column="19" selection-start-line="13" selection-start-column="2" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8080/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8080/src/main/java/com/lagou/edu/LagouResumeApplication8080.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-common/src/main/java/com/lagou/edu/pojo/Resume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8081/src/main/java/com/lagou/edu/LagouResumeApplication8081.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/src/main/java/com/lagou/edu/LagouEurekaServerApp8761.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE-sources.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/GateWayApplication9002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2352">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="n#dependencyManagement#0;n#project#0;n#!!top" />
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8081/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/java/com/lagou/edu/ZipkinServerApplication9411.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="21" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/service/ResumeServiceFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/service/ResumeFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8081/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/AuthorizationServerSecurityConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="122" column="33" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar!/org/springframework/security/crypto/password/NoOpPasswordEncoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/develop/maven/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/builders/ClientDetailsServiceBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="104" column="60" selection-start-line="104" selection-start-column="60" selection-end-line="104" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="9" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/OauthServerApplication9999.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/OauthServerConfiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="121" lean-forward="true" selection-start-line="16" selection-end-line="121" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3138#3139#0" expanded="true" />
+            <element signature="e#3184#3185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/SecurityConfiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/AutodeliverApplicaton8096.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" selection-start-line="7" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/OthersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/config/ResourceServerConfiger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lagou-cloud-zipkin-server-9411</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
