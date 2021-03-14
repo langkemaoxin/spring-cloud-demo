@@ -3,6 +3,16 @@ server:
 Spring:
   application:
     name: lagou-cloud-oauth-server
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/oauth2?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowMultiQueries=true&serverTimezone=GMT%2B8
+    username: root
+    password: root
+    druid:
+      initialSize: 10
+      minIdle: 10
+      maxActive: 30
+      maxWait: 50000
 eureka:
   client:
     serviceUrl: # eureka server的路径
@@ -12,3 +22,11 @@ eureka:
     prefer-ip-address: true
     #自定义实例显示格式，加上版本号，便于多版本管理，注意是ip-address，早期版本是ipAddress
     instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:1.0-SNAPSHOT
+    
+spring:
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+    #配置在日志中打印出执行的 SQL 语句信息。
+    show-sql: true

@@ -8,6 +8,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
+//@EntityScan("com.lagou.edu.pojo.Users")
 public class OauthServerApplication9999 {
 
     public static void main(String[] args) {

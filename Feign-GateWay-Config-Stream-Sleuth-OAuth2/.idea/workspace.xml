@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d93f1c18-76f4-48e3-b878-d15ffad564f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay/lagou-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay/lagou-parent/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay/lagou-parent/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay/lagou-parent/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java" afterDir="false" />
-    </list>
+    <list default="true" id="d93f1c18-76f4-48e3-b878-d15ffad564f0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +39,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="Feign-GateWay-Config-Stream-Sleuth-OAuth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Feign-GateWay-Config-Stream-Sleuth-OAuth2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic-eureka-ha-provider-consumer-call-metadata-ribbon-hystirx-Feign-GateWay-Config" type="462c0819:PsiDirectoryNode" />
+              <item name="Feign-GateWay-Config-Stream-Sleuth-OAuth2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Feign-GateWay-Config-Stream-Sleuth-OAuth2" type="462c0819:PsiDirectoryNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lagou-parent" />
@@ -90,16 +88,17 @@
       <updated>1611323570988</updated>
       <workItem from="1611323572180" duration="32000" />
       <workItem from="1611473951994" duration="7000" />
+      <workItem from="1615334204232" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39000" />
+    <option name="totallyTimeSpent" value="50000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="597" y="272" width="1863" height="682" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49106145" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49888268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

@@ -1,5 +1,6 @@
 package com.lagou.edu.config;
 
+import com.lagou.edu.service.JdbcUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -27,12 +28,15 @@ public class SecurityConfiger extends WebSecurityConfigurerAdapter {
 
 
     @Bean
-    public PasswordEncoder passwordEncoder(){
+    public PasswordEncoder passwordEncoder() {
         return NoOpPasswordEncoder.getInstance();
     }
 
     @Autowired
     private PasswordEncoder passwordEncoder;
+
+    @Autowired
+    private JdbcUserDetailService jdbcUserDetailService;
 
     /**
      * 处理⽤户名和密码验证事宜
@@ -44,13 +48,14 @@ public class SecurityConfiger extends WebSecurityConfigurerAdapter {
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 
         // 在这个⽅法中就可以去关联数据库了，当前我们先把⽤户信息配置在内存中
-
         // 实例化⼀个⽤户对象(相当于数据表中的⼀条⽤户记录)
-        UserDetails user = new User("admin", "123456", new ArrayList<>());
+//        UserDetails user = new User("admin", "123456", new ArrayList<>());
+//
+//        auth.inMemoryAuthentication()
+//                .withUser(user)
+//                .passwordEncoder(passwordEncoder);
 
-        auth.inMemoryAuthentication()
-                .withUser(user)
-                .passwordEncoder(passwordEncoder);
+        auth.userDetailsService(jdbcUserDetailService).passwordEncoder(passwordEncoder);
     }
 
 }
