@@ -140,8 +140,13 @@ public class OauthServerConfiger extends AuthorizationServerConfigurerAdapter {
         jwtAccessTokenConverter.setSigningKey(sing_key);
         jwtAccessTokenConverter.setVerifier(new MacSigner(sing_key));
 
+        jwtAccessTokenConverter.setAccessTokenConverter(lagouAccessTokenConvertor);
+
         return jwtAccessTokenConverter;
     }
+
+    @Autowired
+    private LagouAccessTokenConvertor lagouAccessTokenConvertor;
 
 
 

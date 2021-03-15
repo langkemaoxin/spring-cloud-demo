@@ -1,5 +1,6 @@
 package com.lagou.edu.config;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
@@ -51,10 +52,15 @@ public class ResourceServerConfiger extends ResourceServerConfigurerAdapter {
 
     private String sing_key="123456";
 
+    @Autowired
+    private LagouAccessTokenConvertor lagouAccessTokenConvertor;
+
     public JwtAccessTokenConverter jwtAccessTokenConverter(){
         JwtAccessTokenConverter jwtAccessTokenConverter = new JwtAccessTokenConverter();
         jwtAccessTokenConverter.setSigningKey(sing_key);
         jwtAccessTokenConverter.setVerifier(new MacSigner(sing_key));
+
+        jwtAccessTokenConverter.setAccessTokenConverter(lagouAccessTokenConvertor);
 
         return jwtAccessTokenConverter;
     }
