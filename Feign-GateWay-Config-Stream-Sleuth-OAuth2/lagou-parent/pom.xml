@@ -13,13 +13,14 @@
         <module>lagou-service-common</module>
         <module>lagou-service-autodeliver-8090</module>
         <module>lagou-service-autodeliver-8091</module>
+        <module>lagou-service-autodeliver-8096</module>
         <module>lagou-service-resume-8080</module>
         <module>lagou-service-resume-8081</module>
         <module>lagou-cloud-eureka-server-8761</module>
         <module>lagou-cloud-eureka-server-8762</module>
         <module>lagou-cloud-hystrix-dashboard-9000</module>
         <module>lagou-cloud-hystrix-turbine-9001</module>
-        <module>lagou-service-autodeliver-8096</module>
+
         <module>lagou-cloud-configserver-9006</module>
         <module>lagou-cloud-stream-producer-9090</module>
         <module>lagou-cloud-stream-consumer-9091</module>
@@ -49,6 +50,7 @@
                 <scope>import</scope>
             </dependency>
         </dependencies>
+        <!--SCA -->
     </dependencyManagement>
 
     <dependencies>

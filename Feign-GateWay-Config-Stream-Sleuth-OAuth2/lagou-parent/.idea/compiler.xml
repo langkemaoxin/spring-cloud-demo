@@ -42,9 +42,11 @@
       <module name="lagou-service-autodeliver-8090" target="11" />
       <module name="lagou-service-autodeliver-8091" target="11" />
       <module name="lagou-service-autodeliver-8096" target="11" />
+      <module name="lagou-service-autodeliver-8097-nacos" target="11" />
       <module name="lagou-service-common" target="11" />
       <module name="lagou-service-resume-8080" target="11" />
       <module name="lagou-service-resume-8081" target="11" />
+      <module name="lagou-service-resume-8082-nacos" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -63,9 +65,11 @@
       <module name="lagou-service-autodeliver-8090" options="-parameters" />
       <module name="lagou-service-autodeliver-8091" options="-parameters" />
       <module name="lagou-service-autodeliver-8096" options="-parameters" />
+      <module name="lagou-service-autodeliver-8097-nacos" options="-parameters" />
       <module name="lagou-service-common" options="-parameters" />
       <module name="lagou-service-resume-8080" options="-parameters" />
       <module name="lagou-service-resume-8081" options="-parameters" />
+      <module name="lagou-service-resume-8082-nacos" options="-parameters" />
     </option>
   </component>
 </project>

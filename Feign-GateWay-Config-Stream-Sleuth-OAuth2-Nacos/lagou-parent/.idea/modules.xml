@@ -17,9 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8090/lagou-service-autodeliver-8090.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8090/lagou-service-autodeliver-8090.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" filepath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" />
     </modules>
   </component>
 </project>
