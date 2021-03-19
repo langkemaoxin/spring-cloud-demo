@@ -22,6 +22,7 @@
         <module name="lagou-cloud-eureka-server-8762" />
         <module name="lagou-cloud-eureka-server-8761" />
         <module name="lagou-service-autodeliver-8096" />
+        <module name="lagou-service-resume-8083-nacos" />
         <module name="lagou-cloud-hystrix-turbine-9001" />
         <module name="lagou-service-resume-8081" />
         <module name="lagou-service-resume-8080" />
@@ -49,6 +50,7 @@
       <module name="lagou-service-resume-8080" target="11" />
       <module name="lagou-service-resume-8081" target="11" />
       <module name="lagou-service-resume-8082-nacos" target="11" />
+      <module name="lagou-service-resume-8083-nacos" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -72,6 +74,7 @@
       <module name="lagou-service-resume-8080" options="-parameters" />
       <module name="lagou-service-resume-8081" options="-parameters" />
       <module name="lagou-service-resume-8082-nacos" options="-parameters" />
+      <module name="lagou-service-resume-8083-nacos" options="-parameters" />
     </option>
   </component>
 </project>

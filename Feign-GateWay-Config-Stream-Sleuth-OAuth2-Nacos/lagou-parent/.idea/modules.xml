@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" />
     </modules>
   </component>
 </project>

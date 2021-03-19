@@ -17,6 +17,7 @@
         <module>lagou-service-resume-8080</module>
         <module>lagou-service-resume-8081</module>
         <module>lagou-service-resume-8082-nacos</module>
+        <module>lagou-service-resume-8083-nacos</module>
         <module>lagou-cloud-eureka-server-8761</module>
         <module>lagou-cloud-eureka-server-8762</module>
         <module>lagou-cloud-hystrix-dashboard-9000</module>
