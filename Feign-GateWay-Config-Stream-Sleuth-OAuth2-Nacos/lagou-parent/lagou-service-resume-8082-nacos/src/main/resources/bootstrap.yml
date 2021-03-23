@@ -18,11 +18,21 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 127.0.0.1:8848
+        server-addr: 127.0.0.1:8848,127.0.0.1:8849,127.0.0.1:8850
+
+      config:
+        server-addr: 127.0.0.1:8848,127.0.0.1:8849,127.0.0.1:8850
+        namespace: 76bd1a7b-c306-4d49-8c0d-e4e2cb5248a7
+        group: DEFAULT_GROUP
+        file-extension: yaml
+        ## dataId： lagou-service-resume.yaml
+        ext-config[0]:
+          data-id: abc.yaml
+          group: DEFAULT_GROUP
+          refresh: true  #开启扩展dataId的动态刷新
+
 management:
   endpoints:
     web:
       exposure:
         include: "*"
-
-

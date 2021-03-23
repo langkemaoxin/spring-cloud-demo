@@ -1,5 +1,6 @@
 server:
   port: 8097
+
 spring:
   application:
     name: lagou-service-autodeliver
