@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-configserver-9006/lagou-cloud-configserver-9006.iml" filepath="$PROJECT_DIR$/lagou-cloud-configserver-9006/lagou-cloud-configserver-9006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" filepath="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/lagou-cloud-gateway-server-9002.iml" filepath="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/lagou-cloud-gateway-server-9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/lagou-cloud-hystrix-dashboard-9000.iml" filepath="$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/lagou-cloud-hystrix-dashboard-9000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/lagou-cloud-hystrix-turbine-9001.iml" filepath="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/lagou-cloud-hystrix-turbine-9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/lagou-cloud-oauth-server-9999.iml" filepath="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/lagou-cloud-oauth-server-9999.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/lagou-cloud-stream-consumer-9091.iml" filepath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/lagou-cloud-stream-consumer-9091.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/lagou-cloud-stream-consumer-9092.iml" filepath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/lagou-cloud-stream-consumer-9092.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-stream-producer-9090/lagou-cloud-stream-producer-9090.iml" filepath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/lagou-cloud-stream-producer-9090.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/lagou-cloud-zipkin-server-9411.iml" filepath="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/lagou-cloud-zipkin-server-9411.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-parent.iml" filepath="$PROJECT_DIR$/lagou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8090/lagou-service-autodeliver-8090.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8090/lagou-service-autodeliver-8090.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" filepath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" />
+    </modules>
+  </component>
+</project>

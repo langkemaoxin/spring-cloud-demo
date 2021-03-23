@@ -1,0 +1,38 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: lagou-service-resume
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf-8&useSSL=false&allowMultiQueries=true&serverTimezone=GMT%2B8
+    username: root
+    password: root
+  jpa:
+    database: MySQL
+    show-sql: true
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl  #避免将驼峰命名转换为下划线命名
+  # nacos配置
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848,127.0.0.1:8849,127.0.0.1:8850
+
+      config:
+        server-addr: 127.0.0.1:8848,127.0.0.1:8849,127.0.0.1:8850
+        namespace: 76bd1a7b-c306-4d49-8c0d-e4e2cb5248a7
+        group: DEFAULT_GROUP
+        file-extension: yaml
+        ## dataId： lagou-service-resume.yaml
+        ext-config[0]:
+          data-id: abc.yaml
+          group: DEFAULT_GROUP
+          refresh: true  #开启扩展dataId的动态刷新
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

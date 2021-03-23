@@ -1,0 +1,45 @@
+server:
+  port: 9006
+eureka:
+  client:
+    serviceUrl: # eureka server的路径
+      #把 eureka 集群中的所有 url 都填写了进来，也可以只写⼀台，因为各个 eureka server 可以同步注册表
+      defaultZone: http://lagoucloudeurekaservera:8761/eureka/,http://lagoucloudeurekaserverb:8762/eureka/
+  instance:
+    #使⽤ip注册，否则会使⽤主机名注册了（此处考虑到对⽼版本的兼容，新版本经过实验都是ip）
+    prefer-ip-address: true
+    #⾃定义实例显示格式，加上版本号，便于多版本管理，注意是ip-address，早期版本是ipAddress
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:1.0-SNAPSHOT
+
+spring:
+  application:
+  name: lagou-cloud-config
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/langkemaoxin/lagou-config-repo.git
+          #配置git服务地址
+          username: 2363613998@qq.com #配置git⽤户名
+          password: wass802225 #配置git密码
+          search-paths:
+            - lagou-config-repo
+    # 读取分⽀
+    label: main
+
+# springboot中暴露健康检查等断点接⼝
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  # 暴露健康接⼝的细节
+  endpoint:
+    health:
+      show-details: always
