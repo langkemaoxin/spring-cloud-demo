@@ -14,6 +14,7 @@
         <module>lagou-service-autodeliver-8090</module>
         <module>lagou-service-autodeliver-8091</module>
         <module>lagou-service-autodeliver-8097-nacos</module>
+        <module>lagou-service-autodeliver-8098-sentinel</module>
         <module>lagou-service-resume-8080</module>
         <module>lagou-service-resume-8081</module>
         <module>lagou-service-resume-8082-nacos</module>
