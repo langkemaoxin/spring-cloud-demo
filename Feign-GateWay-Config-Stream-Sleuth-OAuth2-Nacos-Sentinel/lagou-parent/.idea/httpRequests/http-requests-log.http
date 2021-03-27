@@ -1,0 +1,4 @@
+GET http://localhost:8098/autodeliver/checkState/{userId}
+
+###
+

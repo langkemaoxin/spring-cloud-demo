@@ -15,6 +15,25 @@ spring:
         #如果8719端口被占用，那么会依次+1
       # Sentinel Nacos数据源配置，Nacos中的规则会自动同步到sentinel流控规则中
 
+      # Sentinel Nacos数据源配置，Nacos中的规则会自动同步到sentinel流控规则中
+      datasource:
+        # 自定义的流控规则数据源名称
+        flow:
+          nacos:
+            server-addr: ${spring.cloud.nacos.discovery.server-addr}
+            data-id: ${spring.application.name}-flow-rules
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow  # 类型来自RuleType类
+        # 自定义的降级规则数据源名称
+        degrade:
+          nacos:
+            server-addr: ${spring.cloud.nacos.discovery.server-addr}
+            data-id: ${spring.application.name}-degrade-rules
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: degrade  # 类型来自RuleType类
+
 management:
   endpoints:
     web:
