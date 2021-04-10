@@ -5,17 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb641f54-7748-4f2f-8ad2-4c2e0786cc43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_datasource_nacos_1_6_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/config/SentinelHandlersClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alibaba_dubbo_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_dubbo_2_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_apache_dubbo_adapter_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_jaxrs2_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_jaxrs_10_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_36_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_2_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_compatible_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_starter_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/lagou-service-autodeliver-8099-nacos-sentinel-dubbo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagou-service-dubbo-api/lagou-service-dubbo-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagou-service-dubbo-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagou-service-dubbo-api/src/main/java/com/lagou/edu/service/ResumeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/lagou-service-resume-8084-nacos-sentinl-dubbo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-configserver-9006/lagou-cloud-configserver-9006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-configserver-9006/lagou-cloud-configserver-9006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-eureka-server-8761/lagou-cloud-eureka-server-8761.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-eureka-server-8762/lagou-cloud-eureka-server-8762.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/lagou-cloud-hystrix-dashboard-9000.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-hystrix-dashboard-9000/lagou-cloud-hystrix-dashboard-9000.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/lagou-cloud-hystrix-turbine-9001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-hystrix-turbine-9001/lagou-cloud-hystrix-turbine-9001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/lagou-cloud-oauth-server-9999.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-oauth-server-9999/lagou-cloud-oauth-server-9999.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/lagou-cloud-stream-consumer-9091.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/lagou-cloud-stream-consumer-9091.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/lagou-cloud-stream-consumer-9092.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/lagou-cloud-stream-consumer-9092.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/lagou-cloud-stream-producer-9090.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/lagou-cloud-stream-producer-9090.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/lagou-cloud-zipkin-server-9411.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/lagou-cloud-zipkin-server-9411.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8090/lagou-service-autodeliver-8090.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8090/lagou-service-autodeliver-8090.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8091/lagou-service-autodeliver-8091.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/lagou-service-autodeliver-8098-sentinel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/lagou-service-autodeliver-8098-sentinel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/lagou-service-autodeliver/target/" />
@@ -43,6 +74,9 @@
     <ignored path="$PROJECT_DIR$/lagou-service-resume-8083-nacos/target/" />
     <ignored path="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-dubbo-api/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,32 +92,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/pom.xml">
+        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="528">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/AutodeliverApplicaton8098.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1200">
+              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="1248">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,74 +131,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/config/SentinelHandlersClass.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/AutodeliverApplicaton8099.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="4" selection-start-line="4" selection-end-line="17" />
+            <state relative-caret-position="192">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-dubbo-api/src/main/java/com/lagou/edu/service/ResumeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/config/SentinelHandlersClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/service/impl/ResumeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
               <folding>
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="16" lean-forward="true" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/develop/maven/repository/io/github/openfeign/feign-core/10.1.0/feign-core-10.1.0-sources.jar!/feign/ReflectiveFeign.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1392">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos/src/main/java/com/lagou/edu/LagouResumeApplication8082.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/dao/ResumeDao.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding>
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-              </folding>
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8083-nacos/src/main/java/com/lagou/edu/LagouResumeApplication8083.java">
+        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/LagouResumeApplication8084.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lagou-service-resume-8083-nacos/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -188,6 +211,7 @@
       <find>org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker</find>
       <find>hystrixCommandAnnotationPointcut</find>
       <find>76bd1a7b-c306-4d49-8c0d-e4e2cb5248a7</find>
+      <find>tools</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -196,16 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/pom.xml" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/StreamProducerApplication9090.java" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/service/IMessageProducer.java" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/main/java/com/lagou/edu/service/MessageProducerImpl.java" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-producer-9090/src/test/java/MessageProducerTest.java" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/pom.xml" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/StreamConsumerApplication9091.java" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/java/com/lagou/edu/service/MessageConsumerService.java" />
-        <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9092/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-cloud-stream-consumer-9091/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java" />
         <option value="$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/resources/applicatin.yml" />
@@ -237,7 +251,6 @@
         <option value="$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-service-resume-8082-nacos/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-service-resume-8082-nacos/src/main/java/com/lagou/edu/controller/ConfigController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/AutodeliverApplicaton8098.java" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/service/ResumeServiceFeignClient.java" />
         <option value="$PROJECT_DIR$/lagou-service-resume-8082-nacos/pom.xml" />
@@ -247,6 +260,17 @@
         <option value="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/pom.xml" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" />
+        <option value="$PROJECT_DIR$/lagou-service-dubbo-api/src/main/java/service/ResumeService.java" />
+        <option value="$PROJECT_DIR$/lagou-service-dubbo-api/src/main/java/com/lagou/edu/service/ResumeService.java" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/AutodeliverApplicaton8099.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/LagouResumeApplication8084.java" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/service/impl/ResumeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/controller/AutoDeliverController.java" />
       </list>
     </option>
   </component>
@@ -270,9 +294,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="834" />
-    <option name="y" value="132" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-5" />
     <option name="width" value="1936" />
     <option name="height" value="1099" />
   </component>
@@ -295,25 +318,25 @@
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -321,7 +344,7 @@
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -330,7 +353,7 @@
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -340,7 +363,7 @@
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -350,60 +373,7 @@
             <path>
               <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-autodeliver-8098-sentinel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lagou-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lagou-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="lagou-service-resume-8083-nacos" type="462c0819:PsiDirectoryNode" />
+              <item name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -425,7 +395,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/LagouJava/Level 3/moudle5/seata课程资料/lagou_parent_初始工程/lagou_parent_初始工程/lagou_parent" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -436,6 +406,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
       <recent name="com.lagou.edu.config" />
       <recent name="com.lagou.edu" />
     </key>
@@ -462,9 +433,9 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.26874658" />
+    <option name="contentProportion" value="0.2244116" />
   </component>
-  <component name="RunManager" selected="Spring Boot.AutodeliverApplicaton8098">
+  <component name="RunManager" selected="Spring Boot.AutodeliverApplicaton8099">
     <configuration name="AutodeliverApplicaton8098#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/AutodeliverApplicaton8098.http">
       <method v="2" />
     </configuration>
@@ -505,6 +476,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.AutodeliverApplicaton8098" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutodeliverApplicaton8099" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.AutodeliverApplicaton8099" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -550,6 +528,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LagouEurekaServerApp8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-eureka-server-8762" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouEurekaServerApp8762" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LagouResumeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="lagou-service-resume-8080" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouResumeApplication8080" />
@@ -584,6 +569,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LagouResumeApplication8084" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-service-resume-8084-nacos-sentinl-dubbo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.LagouResumeApplication8084" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OauthServerApplication9999" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="lagou-cloud-oauth-server-9999" />
       <extension name="coverage">
@@ -614,6 +606,13 @@
     <configuration name="StreamProducerApplication9090" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="lagou-cloud-stream-producer-9090" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.StreamProducerApplication9090" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinServerApplication9411" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lagou-cloud-zipkin-server-9411" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.edu.ZipkinServerApplication9411" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -694,7 +693,13 @@
       <workItem from="1616538124097" duration="977000" />
       <workItem from="1616540307133" duration="2416000" />
       <workItem from="1616681760461" duration="1480000" />
-      <workItem from="1616832365056" duration="5852000" />
+      <workItem from="1616832365056" duration="12072000" />
+      <workItem from="1617204717558" duration="606000" />
+      <workItem from="1617316465354" duration="915000" />
+      <workItem from="1617601077079" duration="599000" />
+      <workItem from="1617892831155" duration="599000" />
+      <workItem from="1617926167300" duration="598000" />
+      <workItem from="1618012411172" duration="599000" />
     </task>
     <servers />
   </component>
@@ -731,7 +736,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190860000" />
+    <option name="totallyTimeSpent" value="200996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -743,10 +748,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="834" y="132" width="1936" height="1099" extended-state="0" />
-    <editor active="true" />
+    <frame x="-5" y="0" width="1936" height="1099" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.2415459" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5340729" visible="true" weight="0.3306495" />
       <window_info id="Structure" order="1" sideWeight="0.4659271" side_tool="true" weight="0.3370907" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -769,7 +773,7 @@
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.32666665" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.35630965" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.18133616" />
       <window_info anchor="bottom" id="Java Regex Tester" order="16" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -807,141 +811,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/dao/UsersRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/service/JdbcUserDetailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-zipkin-server-9411/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8090/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-eureka-server-8761/src/main/java/com/lagou/edu/LagouEurekaServerApp8761.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java/com/lagou/edu/config/BlackListFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/JwtAccessTokenConverter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/OauthServerConfiger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2976">
-          <caret line="143" selection-start-line="143" selection-end-line="143" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2041#2057#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/LagouAccessTokenConvertor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/config/LagouAccessTokenConvertor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="32" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/DemoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar!/org/springframework/security/core/Authentication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java/com/lagou/edu/controller/OthersController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/develop/maven/repository/org/springframework/security/oauth/spring-security-oauth2/2.3.4.RELEASE/spring-security-oauth2-2.3.4.RELEASE.jar!/org/springframework/security/oauth2/provider/token/DefaultAccessTokenConverter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-cloud-oauth-server-9999/src/main/java/com/lagou/edu/config/SecurityConfiger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1104">
@@ -1059,13 +928,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/service/ResumeFallback.java" />
     <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/test/java/AutoDeliverApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1168,6 +1030,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="16" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-dubbo-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/controller/ResumeController.java" />
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/service/ResumeService.java" />
+    <entry file="file://$PROJECT_DIR$/lagou-service-common/src/main/java/com/lagou/edu/pojo/Resume.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/AutodeliverApplicaton8098.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1179,20 +1070,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="238">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/service/ResumeServiceFeignClient.java" />
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/config/FeignConfig.java" />
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/AutodeliverApplicaton8099.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-dubbo-api/src/main/java/com/lagou/edu/service/ResumeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/config/SentinelHandlersClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/service/impl/ResumeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/dao/ResumeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="16" lean-forward="true" selection-end-line="65" />
+        <state relative-caret-position="216">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/src/main/java/com/lagou/edu/LagouResumeApplication8084.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/src/main/java/com/lagou/edu/controller/AutoDeliverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

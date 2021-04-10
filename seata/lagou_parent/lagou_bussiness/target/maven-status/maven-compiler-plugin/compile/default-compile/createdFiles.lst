@@ -1,0 +1,8 @@
+com\lagou\bussiness\feign\PointsServiceFeign.class
+com\lagou\bussiness\feign\StorageServiceFeign.class
+com\lagou\bussiness\service\BussinessService.class
+com\lagou\bussiness\service\impl\BussinessServiceImpl.class
+com\lagou\bussiness\utils\IdWorker.class
+com\lagou\bussiness\BussinessApplication.class
+com\lagou\bussiness\feign\OrderServiceFeign.class
+com\lagou\bussiness\controller\BussinessController.class

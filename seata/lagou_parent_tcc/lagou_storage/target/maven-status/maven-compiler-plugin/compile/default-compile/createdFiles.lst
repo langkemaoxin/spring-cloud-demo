@@ -1,0 +1,6 @@
+com\lagou\storage\entity\Storage.class
+com\lagou\storage\service\impl\StorageServiceImpl.class
+com\lagou\storage\service\StorageService.class
+com\lagou\storage\StorageApplication.class
+com\lagou\storage\controller\StorageController.class
+com\lagou\storage\mapper\StorageMapper.class

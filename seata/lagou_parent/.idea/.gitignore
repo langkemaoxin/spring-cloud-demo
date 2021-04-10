@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\初始工程\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

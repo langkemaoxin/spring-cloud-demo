@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagou_bussiness/lagou_bussiness.iml" filepath="$PROJECT_DIR$/lagou_bussiness/lagou_bussiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou_common_db/lagou_common_db.iml" filepath="$PROJECT_DIR$/lagou_common_db/lagou_common_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou_order/lagou_order.iml" filepath="$PROJECT_DIR$/lagou_order/lagou_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou_parent_tcc.iml" filepath="$PROJECT_DIR$/lagou_parent_tcc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou_points/lagou_points.iml" filepath="$PROJECT_DIR$/lagou_points/lagou_points.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou_storage/lagou_storage.iml" filepath="$PROJECT_DIR$/lagou_storage/lagou_storage.iml" />
+    </modules>
+  </component>
+</project>

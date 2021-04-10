@@ -18,10 +18,13 @@
     <file url="file://$PROJECT_DIR$/lagou-service-autodeliver-8096" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-service-dubbo-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-resume-8080" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-resume-8081" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-service-resume-8083-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo" charset="UTF-8" />
   </component>
 </project>

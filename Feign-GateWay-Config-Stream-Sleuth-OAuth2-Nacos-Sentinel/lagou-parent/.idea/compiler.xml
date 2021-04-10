@@ -10,24 +10,27 @@
         <module name="lagou-service-autodeliver-8091" />
         <module name="lagou-service-autodeliver-8090" />
         <module name="lagou-service-resume-8082-nacos" />
+        <module name="lagou-cloud-zipkin-server-9411" />
         <module name="lagou-service-common" />
         <module name="lagou-service-autodeliver-8098-sentinel" />
         <module name="lagou-service-autodeliver-8097-nacos" />
         <module name="lagou-cloud-stream-producer-9090" />
+        <module name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" />
         <module name="lagou-cloud-configserver-9006" />
         <module name="lagou-cloud-oauth-server-9999" />
         <module name="lagou-cloud-gateway-server-9002" />
+        <module name="lagou-service-dubbo-api" />
         <module name="lagou-cloud-stream-consumer-9092" />
         <module name="lagou-cloud-stream-consumer-9091" />
         <module name="lagou-cloud-eureka-server-8762" />
         <module name="lagou-cloud-eureka-server-8761" />
-        <module name="lagou-service-autodeliver-8096" />
+        <module name="lagou-service-resume-8084-nacos-sentinl-dubbo" />
         <module name="lagou-service-resume-8083-nacos" />
         <module name="lagou-cloud-hystrix-turbine-9001" />
         <module name="lagou-cloud-hystrix-dashboard-9000" />
         <module name="lagou-service-resume-8081" />
         <module name="lagou-service-resume-8080" />
-        <module name="lagou-cloud-zipkin-server-9411" />
+        <module name="lagou-service-autodeliver-8096" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -48,11 +51,14 @@
       <module name="lagou-service-autodeliver-8096" target="11" />
       <module name="lagou-service-autodeliver-8097-nacos" target="11" />
       <module name="lagou-service-autodeliver-8098-sentinel" target="11" />
+      <module name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" target="11" />
       <module name="lagou-service-common" target="11" />
+      <module name="lagou-service-dubbo-api" target="11" />
       <module name="lagou-service-resume-8080" target="11" />
       <module name="lagou-service-resume-8081" target="11" />
       <module name="lagou-service-resume-8082-nacos" target="11" />
       <module name="lagou-service-resume-8083-nacos" target="11" />
+      <module name="lagou-service-resume-8084-nacos-sentinl-dubbo" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -73,11 +79,14 @@
       <module name="lagou-service-autodeliver-8096" options="-parameters" />
       <module name="lagou-service-autodeliver-8097-nacos" options="-parameters" />
       <module name="lagou-service-autodeliver-8098-sentinel" options="-parameters" />
+      <module name="lagou-service-autodeliver-8099-nacos-sentinel-dubbo" options="-parameters" />
       <module name="lagou-service-common" options="-parameters" />
+      <module name="lagou-service-dubbo-api" options="-parameters" />
       <module name="lagou-service-resume-8080" options="-parameters" />
       <module name="lagou-service-resume-8081" options="-parameters" />
       <module name="lagou-service-resume-8082-nacos" options="-parameters" />
       <module name="lagou-service-resume-8083-nacos" options="-parameters" />
+      <module name="lagou-service-resume-8084-nacos-sentinl-dubbo" options="-parameters" />
     </option>
   </component>
 </project>

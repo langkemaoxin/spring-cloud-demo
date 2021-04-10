@@ -1,0 +1,8 @@
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\utils\IdWorker.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\BussinessApplication.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\controller\BussinessController.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\feign\StorageServiceFeign.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\service\impl\BussinessServiceImpl.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\feign\OrderServiceFeign.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\service\BussinessService.java
+E:\lagou\Java工程师高薪训练营课程\3.分布式架构设计&微服务深入剖析\SpringCloud组件设计原理及实战（下）\seata分布式事务\lagou_parent\lagou_bussiness\src\main\java\com\lagou\bussiness\feign\PointsServiceFeign.java

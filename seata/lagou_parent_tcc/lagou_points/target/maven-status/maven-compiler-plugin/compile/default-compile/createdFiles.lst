@@ -1,0 +1,6 @@
+com\lagou\points\entity\Points.class
+com\lagou\points\service\PointsService.class
+com\lagou\points\controller\PointsController.class
+com\lagou\points\mapper\PointsMapper.class
+com\lagou\points\PointsApplication.class
+com\lagou\points\service\impl\PointsServiceImpl.class

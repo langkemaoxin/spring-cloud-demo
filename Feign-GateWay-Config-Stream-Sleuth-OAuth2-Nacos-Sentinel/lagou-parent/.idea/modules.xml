@@ -19,11 +19,14 @@
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8096/lagou-service-autodeliver-8096.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8097-nacos/lagou-service-autodeliver-8097-nacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/lagou-service-autodeliver-8098-sentinel.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8098-sentinel/lagou-service-autodeliver-8098-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/lagou-service-autodeliver-8099-nacos-sentinel-dubbo.iml" filepath="$PROJECT_DIR$/lagou-service-autodeliver-8099-nacos-sentinel-dubbo/lagou-service-autodeliver-8099-nacos-sentinel-dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" filepath="$PROJECT_DIR$/lagou-service-common/lagou-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-dubbo-api/lagou-service-dubbo-api.iml" filepath="$PROJECT_DIR$/lagou-service-dubbo-api/lagou-service-dubbo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8080/lagou-service-resume-8080.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8081/lagou-service-resume-8081.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8082-nacos/lagou-service-resume-8082-nacos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8083-nacos/lagou-service-resume-8083-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/lagou-service-resume-8084-nacos-sentinl-dubbo.iml" filepath="$PROJECT_DIR$/lagou-service-resume-8084-nacos-sentinl-dubbo/lagou-service-resume-8084-nacos-sentinl-dubbo.iml" />
     </modules>
   </component>
 </project>
